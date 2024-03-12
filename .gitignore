@@ -13,8 +13,8 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-
-.vendor/
+# Remove vendor
+/vendor
 # Mono auto generated files
 mono_crash.*
 
